@@ -1,8 +1,8 @@
 {
-	"name": "Priyansh",
+	"name": "NAZRUL",
 	"version": "10.1.1",
-	"description": "A simple Facebook Messenger Bot made by 𝐏𝐫𝐢𝐲𝐚𝐧𝐬𝐡 𝐑𝐚𝐣𝐩𝐮𝐭.",
-	"main": "Priyansh.js",
+	"description": "BOT MODE BY NAZRUL",
+	"main": "TINA.js",
 	"scripts": {
 		"start": "node index.js",
 		"login": "node login",
@@ -10,24 +10,24 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/Priyansh-11/Priyansh-bot"
+		"url": "https://github.com/HACKER-NAZRUL-420/TINA"
 	},
 	"keywords": [
 		"bot",
 		"facebook",
-		"projectpriyansh",
+		"nazrul",
 		"messenger",
 		"javasvript",
-		"priyanshu",
-		"prince",
-		"mental"
+		"tina",
+		"islamick",
+		"chat"
 	],
-	"author": "𝐏𝐫𝐢𝐲𝐚𝐧𝐬𝐡 𝐑𝐚𝐣𝐩𝐮𝐭",
+	"author": "NAZRUL ISLAM",
 	"license": "GPL-3.0",
 	"bugs": {
-		"url": "https://github.com/Priyansh-11/Priyansh-bot/issues"
+		"url": "https://github.com/HACKER-NAZRUL-420/TINA/issues"
 	},
-	"homepage": "https://github.com/Priyansh-11/Priyansh-bot/",
+	"homepage": "https://github.com/HACKER-NAZRUL-420/TINA/",
 	"dependencies": {
     "@distube/ytdl-core": "^4.13.2",
     "@miraipr0ject/assets": "^1.0.9",
